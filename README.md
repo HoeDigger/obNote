@@ -1,1 +1,1 @@
-# obNote
+This is my personal notes in Obsidian.
